@@ -3,7 +3,7 @@
 Compiler for cpp: [Source](https://stackoverflow.com/a/7005723/10012446).
 
 ```bash
-g++ -o hi hi.cpp && ./hi
+g++ -o binary hi.cpp && ./binary
 ```
 
 **Insatllation of g++ ?**: `g++` is already installed in archlinux or other linux possibly IMO coz its was already there atleast in my archlinux. ~Sahil
