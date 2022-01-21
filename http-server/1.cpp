@@ -4,6 +4,7 @@
 int main()
 {
     crow::SimpleApp app;
+    // official docs of crow: https://crowcpp.org/reference/index.html
 
     CROW_ROUTE(app, "/")
         ([](){
