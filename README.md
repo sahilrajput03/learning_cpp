@@ -1,5 +1,7 @@
 # learning_cpp
 
+- **Doc: Learn IoT and C with Sahil: [Click here](https://docs.google.com/document/d/1lN2vAJOs3Y2MBMWyNfH0RZHajUYMwEZD_Tl9QI1fssM/edit#heading=h.2y4mxxwdk1xh)**
+
 Compiler for cpp: [Source](https://stackoverflow.com/a/7005723/10012446).
 
 ```bash
